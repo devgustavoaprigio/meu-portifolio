@@ -25,7 +25,7 @@ Criar um site de portfólio com visual limpo e inspirado na temática ninja — 
 
 1. Clone ou baixe o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ninja-portfolio.git
+   git clone [https://github.com/seu-usuario/ninja-portfolio.git]https://github.com/devgustavoaprigio/meu-portifolio.git
 Abra o arquivo index.html diretamente no navegador.
 
 📌 Próximos passos
